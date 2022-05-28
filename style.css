@@ -872,8 +872,7 @@ h4 {
         overflow-x: hidden;
         position: relative;
     }
-
-    .bloc-group,
+   .bloc-group,
     .bloc-group .bloc {
         display: block;
         width: 100%;
