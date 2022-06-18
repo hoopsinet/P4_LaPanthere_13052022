@@ -586,6 +586,13 @@ p {
     font-size: 20px;
     font-family: "Open Sans";
 }
+blockquote {
+    font-style: italic;
+    font-size: 18px;
+}
+figcaption{ 
+    font-size: 16px;
+}
 .cta-hero {
     margin-top: 22px;
     color: #fff !important;
